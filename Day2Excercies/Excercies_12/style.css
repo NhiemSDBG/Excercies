@@ -1,0 +1,32 @@
+body{
+	font-family: Arial;
+	font-size: 20px;
+}
+table{
+	width: 460px;
+	height: 400px;
+	margin: auto;
+}
+.Id{
+	width: 60px;
+	text-align: center;
+}
+.Name{
+	width: 300px;
+}
+.Major{
+	width: 310px;
+}
+.Horizon1{
+	background-color: gray;
+	text-align: center;
+}
+.Horizon2{
+	background-color: #aae116;
+}
+.Horizon3{
+	background-color: white;
+}
+table, tr, td{
+	padding: 15px;
+}

@@ -1,0 +1,45 @@
+#Main{
+	width: 515px;
+	height: 458px;
+	background-color: white;
+	border: 2px solid black;
+	margin: 0px auto;
+}
+#Header{
+	height: 20px;
+	position: relative;
+	top: -2px;
+	left: -2px;
+	width: 515px;
+	border: 2px solid black;
+}
+.Rectangle1{
+	background-color: #e99a96;
+	width: 120px;
+	height: 80px;
+	margin-top: 20px;
+	margin-left: 30px;
+	border: 2px solid black;
+	float: left;
+}
+.Rectangle2{
+	background: #9fc4f8;
+	width: 280px;
+	height: 80px;
+	float: right;
+	border: 2px solid black;
+	margin-top: 20px;
+	margin-right: 35px;
+}
+.Rectangle3{
+	position: relative;
+	width: 446px;
+	height: 80px;
+	border: 2px solid black;
+	top: 330px;
+	background-color: #ffe59a;
+	margin-left: 30px;
+	margin-bottom: 35px;
+
+}
+

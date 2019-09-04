@@ -1,0 +1,36 @@
+#Background{
+	background-color: #a7d8d2;
+	width: 800px;
+	height: 740px;
+	margin: auto;
+	margin-top: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+table{
+	width: 760px;
+	background-color: #fafafa;
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+td{
+	width: 50%;
+	padding: 10px;
+}
+.left{
+	text-align: right;
+	vertical-align: baseline;
+}
+#submit{
+	width: 80px;
+	height: 30px;
+	background-color: #59ace0;
+	font-size: 18px;
+	margin: auto;
+	color: white;
+	border-radius: 6px;
+	box-shadow: none;
+}

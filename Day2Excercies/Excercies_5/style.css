@@ -1,0 +1,38 @@
+#Background{
+	margin: 0px auto;
+	width: 523px;
+	height: 511px;
+	padding-top: 20px;
+}
+img{
+	float: left;
+}
+h1{
+	font-family: Time New Roman;
+	color: red;
+	font-size: 25px;
+	text-align: left;
+	margin-bottom: 5px;
+}
+#information{
+	text-align: left;
+	float: left;
+	padding: 5px;
+	line-height: 20px;
+
+}
+#form{
+	height: 700px;
+	line-height: 17px;
+}
+#Languages{
+	height: 90px;
+	margin-top: 0px;
+}
+#Addition{
+	height: 100px;
+	margin-top: 20px;
+}
+#buton{
+	margin-left: 160px;
+}

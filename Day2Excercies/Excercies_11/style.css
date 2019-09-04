@@ -1,0 +1,15 @@
+#background{
+	font-family: Time New Roman;
+	font-size: 20px;
+}
+
+table{
+	margin: auto;
+	border: 2px solid black;
+	width: 350px;
+	height: 250px;
+}
+tr, td{
+	border: 2px solid black;
+	padding: 5px;
+}

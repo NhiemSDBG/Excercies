@@ -1,0 +1,27 @@
+#background{
+	background-color: #ccccff;
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+	font-family: Arial;
+}
+.content1{
+	color: #580005;
+	font-family: Time New Roman;
+	padding-left: 30px;
+	text-indent: -30px;
+}
+.content2{
+	color: #050062;
+	font-family: Time New Roman;
+	padding-left: 30px;
+	text-indent: -30px;
+}
+#box{
+	border: 2px dashed black;
+	padding: 15px;
+	color: #580005; 
+	padding-left: 30px;
+	text-indent: -25px;
+}
+

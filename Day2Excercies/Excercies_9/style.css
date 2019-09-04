@@ -1,0 +1,17 @@
+#Main{
+	background-color: #d9da3e;
+	font-family: arial;
+	width: 600px;
+	margin: auto;
+	font-size: 15px;
+}
+li{
+	color: #120674;
+}
+#Content{
+	font-size: 15px;
+	color: #89007c;
+	padding: 15px;
+	margin-top: -30px;
+}
+
