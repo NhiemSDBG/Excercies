@@ -1,0 +1,17 @@
+#container{
+	width: 600px;
+	margin:auto;
+}
+#Background{	
+	margin: auto;
+	text-align: justify;
+	background-color: gray;
+}
+#stuck{
+	width: 600px;
+	height: 20px;
+	background-color: red;
+	position: fixed;
+	vertical-align: bottom;
+	bottom: 0;
+}

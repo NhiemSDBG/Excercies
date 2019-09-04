@@ -1,0 +1,11 @@
+			.Button{
+			background-color: #418bca;
+			width: 500px;
+			height: 100px;
+			color: white;
+			border-radius: 25px;
+			text-align: center;
+			font-weight: bold;
+			vertical-align: middle;
+			font-size: 30px;
+		}

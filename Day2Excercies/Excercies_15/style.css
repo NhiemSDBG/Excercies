@@ -1,0 +1,10 @@
+.grib-conteiner{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	margin: auto;
+}
+.grib-item{
+	width: 150px;
+	background-color: white;
+	padding: 30px;
+}
