@@ -1,0 +1,62 @@
+#Container{
+	width: 960px;
+	background-color: #333333;
+	margin: auto;
+}
+#html{
+	color: #fafafa;
+	font-size: 30px;
+	text-align: left;
+	padding: 10px;
+	font-family: Arial;
+}
+#Five{
+	color: #f37c1e;
+	font-size: 60px;
+	font-family: Arial;
+	font-weight: bold;
+	position: relative;
+	left: 95px;
+	top: -55px;
+	margin-bottom: -50px;
+}
+#link{
+	height: 40px;
+	background-color: #666666;
+}
+table{
+	width: 350px;
+	height: 40px;
+}
+td{
+	border-right: 2px solid #333333;
+	color: #fafafa;
+	text-align: center;
+	line-height: 35px;
+}
+#MainContent{
+	background-color: white;
+	width: 70%;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+	margin-left: 20px;
+
+}
+#Sidebar{
+	background-color: #e5e5e5;
+	float: right;
+	width: 30%;
+	margin-top: -10px;
+}
+.block{
+	position: relative;
+	height: 150px;
+	width: 120px;
+	background-color: #dddddd;
+	float: left;
+}
+.text{
+margin-left: 130px;
+margin-top: -22px;
+}

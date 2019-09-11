@@ -1,0 +1,167 @@
+@font-face{
+	font-family: Pacifico;
+	src:url(../Fonts/Pacifico.ttf);
+}
+body{
+	max-width: 1200px;
+	margin: auto;
+}
+#header{
+	height: 85px;
+    background: #2f2f2f;
+    display: flex;
+}
+#header h1{
+	font-family: Pacifico;
+	color: #fff;
+	padding: 15px 170px;
+    font-weight: normal;
+    font-size: 35px;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.link{
+	margin-right: 160px;
+	height: 85px;
+	font-family: Myriad Pro;
+}
+.link ul{
+	list-style-type: none;
+    color: #fff;
+    text-align: right;
+    position: relative;
+    right: -55px;
+    display: inline-flex;
+}
+.link li{
+	display: inline-block;
+	width: 120px;
+	height: 100px;
+	line-height: 85px;
+	text-align: center;
+}
+.link a{
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
+.link a:hover{
+	background-color:#fff;
+	color:#2f2f2f; 
+}
+#New{
+	background: #f1f1f1;
+    display: flex;
+    padding: 30px 170px;
+}
+#New img{
+	position: relative;
+    right: -25px;
+}
+#New h4{
+	    padding-bottom: 20px;
+	    font-size: 23px;
+	    font-family:Myriad Pro; 
+}
+#New p{
+	    padding-bottom: 20px;
+}
+#New input{
+	background: #f99640;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 13px;
+}
+.block{
+	width: 250px;
+    height: 180px;
+    background: #2f2f2f;
+}
+#item{
+	display: flex;
+	margin-left: 170px;
+}
+#Heading h4{
+	padding: 20px 170px;
+	    font-size: 20px;
+    font-family: Myriad Pro;
+}
+.text p{
+	    padding-right: 60px;
+}
+.text h5{
+	padding: 10px 0;
+	font-size: 18px;
+	font-family: Myriad Pro;
+}
+#Contact{
+	display: flex;
+	background-color: #2f2f2f;
+	color: #fff;
+	padding-top: 30px;
+}
+.text input{
+	background: #f99640;
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-bottom: 60px;	
+}
+.icon{
+	padding: 10px 170px;
+	display: inline-flex;
+	width: 350px;
+}
+.icon img{
+	border-radius: 5px;
+	width: 50px;
+}
+.title{
+font-family: Myriad Pro;
+font-size: 20px;
+margin-left: 170px;
+}
+.icon p{
+	    margin-left: 20px;
+}
+#Contact-item-1{
+	width: 350px;
+}
+#About{
+	width: 300px;
+	padding-left: 170px;
+}
+#About h5{
+	font-family: Myriad Pro;
+	font-size: 20px;
+}
+#connect{
+	padding-left: 80px;
+}
+#connect h5{
+	font-family: Myriad Pro;
+	font-size: 20px;
+}
+.item{
+	display: flex;
+	padding: 10px;
+}
+.item p{
+	padding-left: 10px;
+}
+#footer{
+	background-color: #fff;
+	height: 80px;
+	text-align: center;
+	line-height: 40px;
+	font-size: 14px;
+}
